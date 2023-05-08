@@ -16,3 +16,4 @@ As the user, you can sort the history of transactions by the amount of each tran
 As the user, you will be logout after 5 minutes if you don't have any interaction with your account. Otherwise, any interaction is executed before 2 minutes will reset the timeout again.
 
 As the user, you can close your account to delete all of your account information, and you will not be able to login you account without reload the page
+https://bankist-app-ioan.netlify.app/
